@@ -6,6 +6,13 @@ export function meta() {
 
 const kueList = [
   { name: "Nastar", image: "/app/images/kuker/nastar.jpg" },
+  { name: "Putri Salju", image: "/app/images/kuker/putrisalju.jpg" },
+  { name: "Kurma Coklat", image: "/app/images/kuker/kurcok.jpg" },
+  { name: "Telor Gabus", image: "/app/images/kuker/telorgabus.jpeg" },
+  { name: "Sagu Keju", image: "/app/images/kuker/sagukeju.jpg" },
+  { name: "Choco Chips", image: "/app/images/kuker/chococips.jpg" },
+  { name: "Semprit", image: "/app/images/kuker/semprit.jpg" },
+  { name: "Kue Ulet", image: "/app/images/kuker/kueulet.jpg" },
 ];
 
 export default function KueKering() {
