@@ -2,7 +2,7 @@
 
 .welcome-container {
     text-align: center;
-    background-color: #ffebf0;
+    background-color: #ffe8ec;
     padding: 40px;
     min-height: 100vh;
   }
@@ -11,12 +11,13 @@
     font-size: 32px;
     font-weight: 800;
     font-family: 'Poppins', sans-serif;
-    color: #ff7eb3;
+    color: #FF9EAF;
     margin-bottom: 260px;
     text-transform: lowercase;
     letter-spacing: 2px;
     text-shadow: 3px 3px 10px rgba(214, 51, 132, 0.3);
     background: linear-gradient(180deg, #ffffff, #ffffff);
+    border-radius: 30px;
 }
 
 
@@ -51,7 +52,7 @@
   }
   
   .category-label {
-    background: #ff7eb3;
+    background: #FF9EAF;
     color: white;
     font-weight: bold;
     font-family: 'Poppins', sans-serif;

@@ -17,7 +17,7 @@ export default function Welcome() {
 
   return (
     <div className="welcome-container">
-      <h1 className="welcome-title">Selamat Datang di Nizie Cake!</h1>
+      <h1 className="welcome-title">Nizie's Cake!</h1>
       <div className="category-list">
         {categories.map(({ name, img, path }, index) => (
           <div key={index} className="category-card" onClick={() => navigate(path)}>
